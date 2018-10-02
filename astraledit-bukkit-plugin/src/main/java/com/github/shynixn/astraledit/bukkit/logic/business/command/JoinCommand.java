@@ -42,7 +42,7 @@ public class JoinCommand implements PlayerCommand {
 
     /**
      * Creates an instance of {@link JoinCommand} which depends on
-     * a {@link SelectionManager] and a {@link Plugin}
+     * a {@link SelectionManager} and a {@link Plugin}
      *
      * @param manager SelectionManager
      */
